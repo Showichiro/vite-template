@@ -1,2 +1,2 @@
 # vite-template
-template for vite react storybook eslint 
+template for vite react storybook eslint prettier
